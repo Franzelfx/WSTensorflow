@@ -10,6 +10,8 @@ Musterlösungen und Beispieldaten. Jeder Workshop ist eine in sich geschlossene
 Einheit: klonen, Aufgabenblatt durcharbeiten, `workshop.py` vervollständigen,
 trainieren, experimentieren.
 
+**Repository:** <https://github.com/Franzelfx/WSTensorflow>
+
 ## Branches
 
 | Branch    | Inhalt |
@@ -19,7 +21,7 @@ trainieren, experimentieren.
 
 ```bash
 # Aufgabe auschecken (Standard)
-git clone <repo-url> WSTensorflow
+git clone git@github.com:Franzelfx/WSTensorflow.git
 cd WSTensorflow
 
 # Lösung ansehen
