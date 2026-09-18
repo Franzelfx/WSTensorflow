@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Trainierte Modelle & Checkpoints
+*.h5
+*.keras
+*.ckpt
+checkpoints/
+
+# Zwischengespeicherte Datensätze
+*.npy
+*.npz
+
+# TensorBoard
+logs/
+logs_*/
+runs/
+
+# Generierte Plots
+plot.png
+*.plot.png
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+.ipynb_checkpoints/
