@@ -1,5 +1,10 @@
 # WSTensorflow – TensorFlow / Keras Workshops
 
+> ✅ **Du befindest dich auf dem Branch `loesung`** – hier liegen zusätzlich die
+> Musterlösungen (`loesung.py`) und Lösungsbesprechungen (`docs/loesung.md`)
+> je Workshop. Die zu bearbeitende Aufgabe liegt auf dem Branch `main`
+> (`git checkout main`).
+
 Workshop-Material zu TensorFlow / Keras: Aufgabenstellungen, Starter-Code,
 Musterlösungen und Beispieldaten. Jeder Workshop ist eine in sich geschlossene
 Einheit: klonen, Aufgabenblatt durcharbeiten, `workshop.py` vervollständigen,
